@@ -2,7 +2,7 @@
   "name": "michael_crandall_portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://capriciouscalzone.github.io/michael_crandall_portfolio",
+  "homepage": "https://capriciouscalzone.github.io/michael_crandall_portfolio",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
