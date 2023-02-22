@@ -169,7 +169,7 @@ header nav ul li a:hover {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  background-color:#972b00d2
+  background-color:#f34d00b7
 }
 
 .intro-img {
@@ -198,11 +198,11 @@ header nav ul li a:hover {
 /* REACH OUT STYLES START */
 #reach-out {
   /* margin-top: 5px; */
-  background: #75BFB2;
+  background: #000000bd;
 }
 
 #reach-out h2 {
-  color: #0E5259;
+  color: #f34d00b7;
 }
 
 .contact h2 {
@@ -249,8 +249,8 @@ header nav ul li a:hover {
 .contact-form button {
   width: 100%;
   border: none;
-  background: #F2E3D5;
-  color: #024e76;
+  background: #f34d00b7;
+  color: #ffffff;
   text-align: center;
   padding: 15px 0;
   font-size: 25px;
@@ -276,7 +276,7 @@ header nav ul li a:hover {
 }
 
 .contact-info h3 {
-  color: #0E5259;
+  color: #f34d00b7;
   font-size: 32px;
 }
 
@@ -298,7 +298,7 @@ header nav ul li a:hover {
 }
 
 .contact-info a {
-  color: #0E5259;
+  color: #f34d00b7;
   display: inline;
 }
 
@@ -313,7 +313,7 @@ header nav ul li a:hover {
 /*Start Jobs section*/
 
 .jobs {
-  background: #0E5259;
+  background: #000000b9;
 
 }
 
@@ -453,7 +453,7 @@ header nav ul li a:hover {
 .article {
   margin: 10px;
   margin-bottom: 1em;
-  background-color: #B4D9CB;
+  background-color: rgba(0, 0, 0, 0.692);
 }
 
 
@@ -474,12 +474,12 @@ header nav ul li a:hover {
   cursor: pointer;
   list-style: none;
   font-size: 40px;
-  color: #0E5259;
+  color: #e05200b2;
   display: inline-block;
 }
 
 .download-logo:hover {
-  color: #328C83;
+  color: #f13838;
   opacity: 0.5;
   transition: .5s ease;
 }
@@ -504,13 +504,13 @@ header nav ul li a:hover {
 } */
 
 .column-title {
-  color: #285950;
+  color: #791402be;
   font-size: 25px;
   font-weight: bold;
 }
 
 .column-text {
-  color: #285950;
+  color: #000000;
   font-size: 20px;
   padding: 5px;
 
@@ -578,7 +578,7 @@ footer a:hover {
   cursor: pointer;
   list-style: none;
   font-size: 40px;
-  color: #59290e;
+  color: #000000;
   display: inline-block;
 }
 
@@ -594,12 +594,13 @@ footer a:hover {
 /* extra titles stylings */
 .section-title {
   font-size: 48px;
-  color: #ad1602dc;
+  color: #f34d00b7;
   border-bottom: 3px solid;
   padding-bottom: 20px;
   text-align: center;
   margin: 0 auto 35px auto;
   width: 50%;
+  background-color: #000000;
 }
 
 .primary-border {
