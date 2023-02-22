@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/michael_crandall_portfolio/static/css/main.90a8b371.css",
+    "main.js": "/michael_crandall_portfolio/static/js/main.afa7d346.js",
+    "static/js/787.c690dcc2.chunk.js": "/michael_crandall_portfolio/static/js/787.c690dcc2.chunk.js",
+    "static/media/Sweet-Pea-Flowers.png": "/michael_crandall_portfolio/static/media/Sweet-Pea-Flowers.0fa379e4c9d6c155f012.png",
+    "static/media/5330558.jpg": "/michael_crandall_portfolio/static/media/5330558.b901680c304aeabad0be.jpg",
+    "static/media/HomeBrew.png": "/michael_crandall_portfolio/static/media/HomeBrew.9a3065b69b6b418dc2a7.png",
+    "static/media/Twilight_Ristorante.png": "/michael_crandall_portfolio/static/media/Twilight_Ristorante.f5b976e32680da017119.png",
+    "static/media/Summer_Punch.png": "/michael_crandall_portfolio/static/media/Summer_Punch.c7da771fb6c126146be3.png",
+    "static/media/Weather_Dash.png": "/michael_crandall_portfolio/static/media/Weather_Dash.fb8dfe9ddd2d1911fd44.png",
+    "static/media/Sphere.png": "/michael_crandall_portfolio/static/media/Sphere.ac26b22491da9c538736.png",
+    "static/media/NoteTaker.png": "/michael_crandall_portfolio/static/media/NoteTaker.a02f46f0add6517fa071.png",
+    "static/media/Profile_Pic.png": "/michael_crandall_portfolio/static/media/Profile_Pic.91c549fdf45d2093a434.png",
+    "static/media/Michael_Crandall_Resume.pdf": "/michael_crandall_portfolio/static/media/Michael_Crandall_Resume.4fbc63e81242ba8f5e03.pdf",
+    "index.html": "/michael_crandall_portfolio/index.html",
+    "main.90a8b371.css.map": "/michael_crandall_portfolio/static/css/main.90a8b371.css.map",
+    "main.afa7d346.js.map": "/michael_crandall_portfolio/static/js/main.afa7d346.js.map",
+    "787.c690dcc2.chunk.js.map": "/michael_crandall_portfolio/static/js/787.c690dcc2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90a8b371.css",
+    "static/js/main.afa7d346.js"
+  ]
+}
