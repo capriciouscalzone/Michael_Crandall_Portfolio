@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/michael_crandall_portfolio/static/css/main.b52e93e8.css",
-    "main.js": "/michael_crandall_portfolio/static/js/main.2770ab5d.js",
+    "main.js": "/michael_crandall_portfolio/static/js/main.f2043359.js",
     "static/js/787.c690dcc2.chunk.js": "/michael_crandall_portfolio/static/js/787.c690dcc2.chunk.js",
     "static/media/5330558.jpg": "/michael_crandall_portfolio/static/media/5330558.b901680c304aeabad0be.jpg",
     "static/media/worout4u_screenshot.png": "/michael_crandall_portfolio/static/media/worout4u_screenshot.fa54acf776f42799e2f6.png",
@@ -11,11 +11,11 @@
     "static/media/WhachaListening2.png": "/michael_crandall_portfolio/static/media/WhachaListening2.983570d68ff62cc35de2.png",
     "index.html": "/michael_crandall_portfolio/index.html",
     "main.b52e93e8.css.map": "/michael_crandall_portfolio/static/css/main.b52e93e8.css.map",
-    "main.2770ab5d.js.map": "/michael_crandall_portfolio/static/js/main.2770ab5d.js.map",
+    "main.f2043359.js.map": "/michael_crandall_portfolio/static/js/main.f2043359.js.map",
     "787.c690dcc2.chunk.js.map": "/michael_crandall_portfolio/static/js/787.c690dcc2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b52e93e8.css",
-    "static/js/main.2770ab5d.js"
+    "static/js/main.f2043359.js"
   ]
 }
